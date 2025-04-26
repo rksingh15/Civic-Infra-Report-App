@@ -1,0 +1,86 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/scrollviewimageatmainactivity"
+    android:padding="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#F2DFA4"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="!! Notice !!"
+            android:textSize="30dp"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:fontFamily="sans-serif" />
+        <!-- Grievance Info Text -->
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text= " Register or Log In:\n
+        🔹 If you're new, click **Register** and complete the process with the required details.\n
+        🔹 If you already have an account, click **Login** and enter your credentials.\n\n
+        Complete Your Profile:\n
+        🔹 After logging in, fill out any additional profile information as prompted.\n\n
+        Navigate to Grievance Section:\n
+        🔹 On the homepage, find and click the **Grievance** option.\n\n
+        Submit Your Grievance:\n
+        🔹 Click **Apply Now** to start the submission process.\n
+        🔹 Fill the form with accurate details about your complaint.\n
+        🔹 Attach relevant documents or evidence.\n
+        🔹 Review your information for accuracy.\n
+        🔹 Submit the form.\n\n
+        Note Your Reference Number:\n
+        🔹 After submission, you'll receive a unique reference number. Keep it safe to track your grievance.\n\n
+        Track Your Grievance:\n"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:fontFamily="serif"
+            />
+
+        <!-- Open Login -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Open"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:fontFamily="@font/poppins" />
+
+        <Button
+            android:id="@+id/openPunjab"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#2196F3"
+            android:text="Login 📌"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/poppins" />
+
+        <!-- Register -->
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="New Account"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:fontFamily="@font/poppins" />
+
+        <Button
+            android:id="@+id/openPunjabResister"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#2196F3"
+            android:text="Register 📌"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/poppins" />
+
+    </LinearLayout>
+</ScrollView>

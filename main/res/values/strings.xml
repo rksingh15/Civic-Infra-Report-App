@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">CIVIC</string>
+    <string name="ImageText1" translatable="false">
+Image 1: A road issue is any problem on roads that affects safety, traffic, or travel.\n\n
+Common road-related issues include:\n\n
+1️⃣ Potholes – 🕳️ Holes in the road that can damage vehicles.\n
+2️⃣ Broken or cracked roads – 🛞 Makes driving unsafe.\n
+3️⃣ Water logging – 💧 Standing water due to poor drainage.\n
+4️⃣ Damaged footpaths – 🚶 Difficult for pedestrians.\n
+5️⃣ Broken or missing streetlights – 💡 Reduces visibility at night.\n
+6️⃣ Open manholes – ⚠️ Dangerous for pedestrians and vehicles.\n
+7️⃣ Illegal speed breakers – ⛔ Not marked properly, may cause accidents.\n\n
+📢 Reporting these helps keep your city safer and cleaner!
+</string>
+
+    <string name="ImageText2" translatable="false">
+Image 2: A garbage issue means improper handling or disposal of waste in public areas. It can lead to bad smells, diseases, and environmental pollution.\n\n
+Common garbage-related issues include:\n\n
+1️⃣ Uncollected garbage – 🗑️ Waste not picked up for days.\n
+2️⃣ Overflowing bins – ♻️ Bins are full and waste is spilling out.\n
+3️⃣ Garbage on roadsides – 🚮 Waste dumped on footpaths or roads.\n
+4️⃣ Burning of garbage – 🔥 Creates harmful smoke and air pollution.\n
+5️⃣ No dustbins in public areas – 🚫 People throw waste anywhere.\n
+6️⃣ Improper segregation – 🧃🗃️ Wet and dry waste mixed together.\n
+7️⃣ Garbage near water bodies – 🌊 Leads to water pollution.\n\n
+📢 Reporting garbage issues helps keep your neighborhood clean and healthy.
+</string>
+
+    <string name="ImageText3" translatable="false">
+Image 3: Waterlogging happens when water gets collected and does not drain properly. It causes inconvenience, traffic jams, and health risks.\n\n
+Common waterlogging issues include:\n\n
+1️⃣ Water on roads after rain – 🌧️ Roads flooded due to poor drainage.\n
+2️⃣ Clogged drains – 🚫 Leaves and garbage block water flow.\n
+3️⃣ Water inside homes/colonies – 🏠 Water enters low-lying areas.\n
+4️⃣ Stagnant water near buildings – 🦟 Breeds mosquitoes, spreads diseases.\n
+5️⃣ No drainage system in some areas – 📉 Rainwater has nowhere to go.\n
+6️⃣ Overflowing manholes – 🕳️ Sewage and rainwater mix.\n
+7️⃣ Damaged or broken pipelines – 💥 Water leaks causing puddles.\n\n
+📢 Reporting waterlogging helps authorities fix drainage and prevent flooding.
+</string>
+
+    <string name="ImageText4" translatable="false">
+Image 4: A building issue refers to any unsafe, illegal, or poorly maintained construction that can pose danger to people or public spaces.\n\n
+Common building-related issues include:\n\n
+1️⃣ Illegal construction – 🚫 Built without government approval.\n
+2️⃣ Cracks in walls or structure – 🧱 Risk of collapse.\n
+3️⃣ Old or unsafe buildings – 🏚️ Need renovation or demolition.\n
+4️⃣ Encroachment – 📐 Construction on footpaths, roads, or parks.\n
+5️⃣ Unfinished or abandoned buildings – ⚠️ Can become crime spots or garbage dumps.\n
+6️⃣ Building without fire safety – 🔥 No extinguishers or fire exits.\n
+7️⃣ Construction causing dust or noise – 😷 Harmful for nearby residents.\n\n
+📢 Reporting these helps ensure public safety and proper urban planning.
+</string>
+
+    <string name="ImageText5" translatable="false">
+Image 5: A drainage issue means problems in the system that removes dirty or rainwater from streets, homes, or public areas. Poor drainage can lead to flooding, bad smell, and diseases.\n\n
+Common drainage problems include:\n\n
+1️⃣ Clogged drains – 🗑️ Garbage or mud blocking water flow.\n
+2️⃣ Broken or damaged drains – 🛠️ Water leaks onto roads or into homes.\n
+3️⃣ No drainage line in area – 🚫 Water has no path to flow.\n
+4️⃣ Overflowing drains – 🌊 Especially during rains.\n
+5️⃣ Sewage water on roads – 💩 Health risk and bad odor.\n
+6️⃣ Open drains – ⚠️ Risky for children and pedestrians.\n
+7️⃣ Uncovered manholes – 🕳️ Dangerous and illegal.\n\n
+📢 Reporting drainage problems helps your area stay clean, dry, and safe!
+</string>
+
+    <string name="ImageText6" translatable="false">
+Image 6: A hospital issue means problems related to public or private healthcare services, including medical facilities, staff, cleanliness, or availability of medicines.\n\n
+Common hospital-related issues include:\n\n
+1️⃣ Lack of doctors or staff – 👨‍⚕️👩‍⚕️ Not enough medical professionals available.\n
+2️⃣ Poor hygiene or sanitation – 🧼 Dirty wards, toilets, or surroundings.\n
+3️⃣ Shortage of medicines – 💊 Essential drugs not available.\n
+4️⃣ Unresponsive staff – 📞 No proper attention or rude behavior.\n
+5️⃣ Long waiting times – ⏳ Delay in treatment or checkup.\n
+6️⃣ Non-functioning equipment – ⚙️ Broken X-ray, MRI, or lab machines.\n
+7️⃣ Overcrowded hospitals – 🧍‍♂️🧍‍♀️ Not enough beds or space for patients.\n\n
+📢 Reporting hospital issues helps improve health services and ensures timely care for all.
+</string>
+
+
+
+</resources>
